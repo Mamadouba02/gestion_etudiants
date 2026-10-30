@@ -2,4 +2,12 @@
 
 Projet Python pédagogique pour pratiquer Git, les commits, les branches et leur fusion.
 
-La fonctionnalité d’affichage du nom d’un étudiant sera développée sur la branche `feature/ajout-etudiant`.
+La fonction `afficher_etudiant(nom)` affiche le nom fourni. Elle est développée sur la branche `feature/ajout-etudiant`, puis intégrée dans `main`.
+
+Exécuter la démonstration avec Python 3 :
+
+```powershell
+python etudiants.py
+```
+
+Résultat attendu : `Aminata Diallo`.
