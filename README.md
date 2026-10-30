@@ -6,7 +6,7 @@ La fonction `afficher_etudiant(nom)` affiche le nom fourni. Elle est développé
 
 Exécuter la démonstration avec Python 3 :
 
-```powershell
+```bash
 python etudiants.py
 ```
 
